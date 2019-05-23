@@ -1,0 +1,15 @@
+.vs
+StrategySample.sln
+StrategySample/App.config
+StrategySample/StrategySample.csproj
+StrategySample/Properties/AssemblyInfo.cs
+StrategySample/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache
+StrategySample/obj/Debug/StrategySample.csproj.CoreCompileInputs.cache
+StrategySample/obj/Debug/StrategySample.csproj.FileListAbsolute.txt
+StrategySample/obj/Debug/StrategySample.csprojAssemblyReference.cache
+StrategySample/obj/Debug/StrategySample.exe
+StrategySample/obj/Debug/StrategySample.pdb
+StrategySample/obj/Debug/TempPE
+StrategySample/bin/Debug/StrategySample.exe
+StrategySample/bin/Debug/StrategySample.exe.config
+StrategySample/bin/Debug/StrategySample.pdb
